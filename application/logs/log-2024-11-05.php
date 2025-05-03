@@ -1,0 +1,67 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-11-05 06:19:09 --> 404 Page Not Found: Assets/images
+ERROR - 2024-11-05 21:25:15 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/includes/user-menu.php 149
+ERROR - 2024-11-05 21:32:57 --> Severity: Warning --> Undefined variable $phone /home/xhtmlreviews/public_html/udyam/application/controllers/User.php 105
+ERROR - 2024-11-05 21:32:58 --> Severity: Warning --> Undefined variable $phone /home/xhtmlreviews/public_html/udyam/application/controllers/User.php 108
+ERROR - 2024-11-05 21:32:59 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/includes/user-menu.php 149
+ERROR - 2024-11-05 21:32:59 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/includes/user-menu.php 149
+ERROR - 2024-11-05 21:33:24 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/includes/user-menu.php 149
+ERROR - 2024-11-05 21:33:24 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 254
+ERROR - 2024-11-05 21:33:24 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 263
+ERROR - 2024-11-05 21:33:24 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 263
+ERROR - 2024-11-05 21:33:24 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 263
+ERROR - 2024-11-05 21:33:24 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 281
+ERROR - 2024-11-05 21:33:24 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 292
+ERROR - 2024-11-05 21:33:24 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 294
+ERROR - 2024-11-05 21:33:24 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 299
+ERROR - 2024-11-05 21:33:24 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 299
+ERROR - 2024-11-05 21:33:24 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 299
+ERROR - 2024-11-05 21:33:24 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 301
+ERROR - 2024-11-05 21:33:24 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 301
+ERROR - 2024-11-05 21:33:24 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 306
+ERROR - 2024-11-05 21:33:24 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 306
+ERROR - 2024-11-05 21:33:24 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 308
+ERROR - 2024-11-05 21:33:24 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 308
+ERROR - 2024-11-05 21:33:24 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 312
+ERROR - 2024-11-05 21:33:24 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 312
+ERROR - 2024-11-05 21:33:24 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 314
+ERROR - 2024-11-05 21:33:24 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 314
+ERROR - 2024-11-05 21:33:24 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 318
+ERROR - 2024-11-05 21:33:24 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 318
+ERROR - 2024-11-05 21:33:24 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 320
+ERROR - 2024-11-05 21:33:24 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 320
+ERROR - 2024-11-05 21:33:35 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/includes/user-menu.php 149
+ERROR - 2024-11-05 21:33:39 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/includes/user-menu.php 149
+ERROR - 2024-11-05 21:33:48 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/includes/user-menu.php 149
+ERROR - 2024-11-05 21:33:50 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/includes/user-menu.php 149
+ERROR - 2024-11-05 21:33:59 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/includes/user-menu.php 149
+ERROR - 2024-11-05 21:34:01 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/includes/user-menu.php 149
+ERROR - 2024-11-05 21:34:02 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/includes/user-menu.php 149
+ERROR - 2024-11-05 21:34:04 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/includes/user-menu.php 149
+ERROR - 2024-11-05 21:34:06 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/includes/user-menu.php 149
+ERROR - 2024-11-05 21:34:06 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 254
+ERROR - 2024-11-05 21:34:06 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 263
+ERROR - 2024-11-05 21:34:06 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 263
+ERROR - 2024-11-05 21:34:06 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 263
+ERROR - 2024-11-05 21:34:06 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 281
+ERROR - 2024-11-05 21:34:06 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 292
+ERROR - 2024-11-05 21:34:06 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 294
+ERROR - 2024-11-05 21:34:06 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 299
+ERROR - 2024-11-05 21:34:06 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 299
+ERROR - 2024-11-05 21:34:06 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 299
+ERROR - 2024-11-05 21:34:06 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 301
+ERROR - 2024-11-05 21:34:06 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 301
+ERROR - 2024-11-05 21:34:06 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 306
+ERROR - 2024-11-05 21:34:06 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 306
+ERROR - 2024-11-05 21:34:06 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 308
+ERROR - 2024-11-05 21:34:06 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 308
+ERROR - 2024-11-05 21:34:06 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 312
+ERROR - 2024-11-05 21:34:06 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 312
+ERROR - 2024-11-05 21:34:06 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 314
+ERROR - 2024-11-05 21:34:06 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 314
+ERROR - 2024-11-05 21:34:06 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 318
+ERROR - 2024-11-05 21:34:06 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 318
+ERROR - 2024-11-05 21:34:06 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 320
+ERROR - 2024-11-05 21:34:06 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/user-dashboard.php 320
+ERROR - 2024-11-05 21:34:22 --> Severity: Warning --> Trying to access array offset on value of type null /home/xhtmlreviews/public_html/udyam/application/views/includes/user-menu.php 149

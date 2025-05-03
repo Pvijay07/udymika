@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-04-15 15:56:19 --> Severity: error --> Exception: Connection refused /home/xhtmlreviews/public_html/udyam/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-04-15 16:06:07 --> Severity: error --> Exception: Connection refused /home/xhtmlreviews/public_html/udyam/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-04-15 16:06:10 --> Severity: error --> Exception: Connection refused /home/xhtmlreviews/public_html/udyam/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-04-15 16:12:30 --> Severity: error --> Exception: Connection refused /home/xhtmlreviews/public_html/udyam/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-04-15 16:12:37 --> Severity: error --> Exception: Connection refused /home/xhtmlreviews/public_html/udyam/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-04-15 16:22:58 --> Severity: error --> Exception: Connection refused /home/xhtmlreviews/public_html/udyam/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-04-15 16:23:02 --> Severity: error --> Exception: Connection refused /home/xhtmlreviews/public_html/udyam/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-04-15 16:28:55 --> Severity: error --> Exception: Connection refused /home/xhtmlreviews/public_html/udyam/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-04-15 16:31:05 --> Severity: error --> Exception: Connection refused /home/xhtmlreviews/public_html/udyam/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-04-15 16:31:05 --> Severity: error --> Exception: Connection refused /home/xhtmlreviews/public_html/udyam/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-04-15 16:36:11 --> Severity: error --> Exception: Connection refused /home/xhtmlreviews/public_html/udyam/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-04-15 16:37:38 --> Severity: error --> Exception: Connection refused /home/xhtmlreviews/public_html/udyam/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-04-15 16:37:39 --> Severity: error --> Exception: Connection refused /home/xhtmlreviews/public_html/udyam/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-04-15 16:41:37 --> Severity: error --> Exception: Connection refused /home/xhtmlreviews/public_html/udyam/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-04-15 17:03:06 --> Severity: error --> Exception: Connection refused /home/xhtmlreviews/public_html/udyam/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-04-15 17:03:06 --> Severity: error --> Exception: Connection refused /home/xhtmlreviews/public_html/udyam/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-04-15 17:08:58 --> Severity: error --> Exception: Connection refused /home/xhtmlreviews/public_html/udyam/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-04-15 17:09:11 --> Severity: error --> Exception: Connection refused /home/xhtmlreviews/public_html/udyam/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-04-15 17:10:18 --> Severity: error --> Exception: Connection refused /home/xhtmlreviews/public_html/udyam/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-04-15 17:18:13 --> Severity: error --> Exception: Connection refused /home/xhtmlreviews/public_html/udyam/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-04-15 17:18:13 --> Severity: error --> Exception: Connection refused /home/xhtmlreviews/public_html/udyam/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-04-15 17:18:13 --> Severity: error --> Exception: Connection refused /home/xhtmlreviews/public_html/udyam/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-04-15 17:19:27 --> Severity: error --> Exception: Connection refused /home/xhtmlreviews/public_html/udyam/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-04-15 17:19:27 --> Severity: error --> Exception: Connection refused /home/xhtmlreviews/public_html/udyam/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-04-15 17:21:10 --> Severity: error --> Exception: Connection refused /home/xhtmlreviews/public_html/udyam/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-04-15 17:23:49 --> Severity: error --> Exception: Connection refused /home/xhtmlreviews/public_html/udyam/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-04-15 17:24:02 --> Severity: error --> Exception: Connection refused /home/xhtmlreviews/public_html/udyam/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-04-15 17:27:20 --> Severity: error --> Exception: Connection refused /home/xhtmlreviews/public_html/udyam/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-04-15 17:31:30 --> Severity: error --> Exception: Connection refused /home/xhtmlreviews/public_html/udyam/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-04-15 17:31:30 --> Severity: error --> Exception: Connection refused /home/xhtmlreviews/public_html/udyam/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-04-15 17:31:30 --> Severity: error --> Exception: Connection refused /home/xhtmlreviews/public_html/udyam/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-04-15 17:31:30 --> Severity: error --> Exception: Connection refused /home/xhtmlreviews/public_html/udyam/system/database/drivers/mysqli/mysqli_driver.php 203

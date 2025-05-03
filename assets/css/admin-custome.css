@@ -1,0 +1,859 @@
+
+
+li.active2 {
+
+    margin: 0 20px;
+
+    padding: 10px;
+
+  }
+
+  li.cls2 {
+
+    margin-right: 40px;
+
+    margin-left: 15px;
+
+  }
+
+  
+
+  li.cls1 {
+
+    margin-left: 40px;
+
+  }
+
+  
+
+  li.custTabMenuListStg {
+
+    /* padding: 0 10px;
+
+    cursor: pointer; */
+
+  }
+
+  .identify-sec ul li.custTabMenuLastStg {
+
+    margin-left: 50px;
+
+    border: 1px solid #ccc;
+
+    padding: 5px 10px;
+
+    border-radius: 10px;
+
+  }
+
+  .identify-sec ul li.active {
+
+    background: #fff3f7;
+
+    border-bottom: 2px solid #ed5285;
+
+    padding: 10px 15px;
+
+  }
+
+  .enter-heading h4 {
+
+    font-size: 20px;
+
+    font-weight: 600;
+
+    margin: 5px 0;
+
+  }
+
+  .enter-heading p.hdgStg {
+
+    font-size: 13px;
+
+  }
+
+
+
+  .dashboard-main-ryt header {
+
+    height: 75px;
+
+    background: #EFEFEF;
+
+    display: flex;
+
+    justify-content: end;
+
+    align-items: center;
+
+    padding-right: 60px;
+
+}
+
+ 
+
+.enter-heading {
+
+    margin-bottom: 20px;
+
+}
+
+.custSec {
+
+    background: #fff3f7;
+
+    padding: 10px 50px;
+
+    border-radius: 10px;
+
+    margin-top: 15px;
+
+    margin-bottom: 40px;
+
+}
+
+
+
+.custDiv {
+
+    padding: 20px 15px;
+
+}
+
+h6.topSecStg {
+
+    font-size: 15px;
+
+    color: #525050;
+
+}
+
+span.topSecStgLbl {
+
+    color: #c73866;
+
+    font-size: 17px;
+
+    font-weight: 600;
+
+}
+
+.identifyCustStg{
+
+    /* width: fit-content;
+
+    padding-bottom: 0px;
+
+    margin-bottom: -1px; */
+
+}
+
+
+
+.identifyCustStg ol, ul {
+
+    margin-bottom: -1px;
+
+}
+
+.kyc-form-cntrl {
+
+    margin-bottom: 30px;
+
+    margin-top: 30px;
+
+}
+
+.dash-seections {
+
+    /* padding: 40px 50px 30px 50px; */
+
+}
+
+.identify-sec label {
+
+    cursor: pointer;
+
+}
+
+.doc-sub {
+
+  padding: 10px 52px 5px 61px;
+
+}
+
+
+
+.doc-sub-form {
+
+    margin-bottom: 12px;
+
+}
+
+
+
+.row.custKycListHdg {
+
+  padding: 20px 20px
+
+}
+
+
+
+.custKycHedSec-first {
+
+  border-radius: 8px;
+
+  background: #c73866;
+
+  padding: 20px 30px;
+
+  margin-right: 20px;
+
+  color: #fff;
+
+}
+
+.custKycHedSec {
+
+  border-radius: 8px;
+
+  background: #eae8e8;
+
+  padding: 20px 30px;
+
+  margin-right: 20px;
+
+  color: #000;
+
+}
+
+
+
+span.countCls {
+
+  font-size: 25px;
+
+}
+
+span.txtHdg {
+
+  font-size: 12px;
+
+}
+
+
+
+.dash_cate_stg {
+
+  /* flex: 0 0 calc(100%/5 - 46px); */
+
+  max-width: 100%;
+
+  margin: 0 7px 13px;
+
+}
+
+.dash-grev>div {
+
+  /* width: 117px; */
+
+}
+
+.dash-grev {
+
+  padding-left: 15px;
+
+}
+
+
+
+.new-doc h2 {
+
+  font-size: 22px;
+
+  line-height: 2px;
+
+}
+
+
+
+.dash_cate_stg.active {
+
+  background: #c73866;
+
+}
+
+
+
+.dash-grev>div.active p {
+
+  color: #fff;
+
+}
+
+
+
+.dash-grev .dash_cate_stg p {
+
+  color: #000;
+
+}
+
+.dash-grev .dash_cate_stg p span {
+
+  color: #000;
+
+}
+
+.dash-grev .dash_cate_stg.active p span {
+
+  color: #fff;
+
+}
+
+
+
+span.certificateClsStg {
+
+  background: #f6c7d7;
+
+  color: #c73866;
+
+  width: auto;
+
+  padding: 5px 10px;
+
+  font-size: 11px;
+
+  border-radius: 12px;
+
+}
+
+.brow{
+
+  border-bottom: 1px solid #ccc;
+
+}
+
+.identify-sec {
+
+  border-bottom: none;
+
+}
+
+.doc-sub-form input, .doc-sub-form select {
+
+  height: 40px;
+
+  Padding: 10px 70px 10px 16px;
+
+}
+
+
+
+.grev-raise_pop, .query-forum, .dash-board-popup {
+
+  margin: 10px auto 0;
+
+  overflow-y: scroll;
+
+  height: 500px;
+
+}
+
+
+
+table > thead {
+
+  background: #e2e2e2;
+
+}
+
+.tmt {
+
+  margin-top: 20px;
+
+}
+
+.grievncsDiv {
+
+  background: #fff3f7;
+
+  padding: 20px 20px;
+
+}
+
+p.grievncsDivPStg {
+
+      background: #fff;
+
+    margin-top: 6px;
+
+    padding: 5px 10px;
+
+}
+
+span.grvnceSpanStg {
+
+  padding-left: 40px;
+
+  cursor: pointer;
+
+}
+
+.hrfStg a {
+
+  color: #fff;
+
+}
+
+.custKycHedSec-first>div a {
+
+  color: #fff;
+
+}
+
+button.subAdminStg {
+
+  background: #fff;
+
+  border: 1px solid #ccc;
+
+  border-radius: 10px;
+
+  padding: 7px 35px;
+
+  margin-bottom: 15px;
+
+      cursor: pointer;
+
+}
+
+svg.iconStg {
+
+  float: right;
+
+  margin-top: -20px;
+
+}
+
+img.clandrIcon {
+
+  float: left;
+
+  padding-right: 40px;
+
+}
+
+strong.schedule-btn {
+
+  border: 1px solid #dfd8d8;
+
+  border-radius: 12px;
+
+  padding: 10px 15px;
+
+}
+
+.countClsStg
+
+{
+
+  color: #fff;
+
+  font-size: 25px;
+
+}
+
+
+
+span.txtHdgStg {
+
+  font-size: 14px;
+
+}
+
+.custKycHedSecSTg-first > a {
+
+  border-radius: 8px;
+
+  background: #c73866;
+
+  padding: 20px 30px;
+
+  margin-right: 20px;
+
+  color: #fff;
+
+}
+
+span.stsBgStg {
+
+  background: #fff;
+
+  padding: 5px 15px;
+
+  border-radius: 15px;
+
+  text-align: center;
+
+}
+
+.logOutIconImg
+
+{
+
+  margin-bottom: 60px;
+
+  padding-left: 30px;
+
+}
+
+.chngPassIcon
+
+{
+
+  padding-top: 80px;
+
+  width: 100%;
+
+  margin-left: -153px;
+
+  color: red;
+
+  cursor: pointer;
+
+}
+
+
+
+.down-btns input {
+
+  background-color: #C73866;
+
+  border-radius: 8px;
+
+  width: 140px;
+
+  height: 40px;
+
+  margin-left: 12px;
+
+}
+
+
+
+.down-btns .custom-file-input::before {
+
+  font-family: 'Inter', sans-serif;
+
+  width: 140px;
+
+  height: 40px;
+
+  content: 'Download';
+
+  color: #fff;
+
+  border-radius: 8px;
+
+  outline: none;
+
+  white-space: nowrap;
+
+  -webkit-user-select: none;
+
+  cursor: pointer;
+
+  font-weight: 500;
+
+  font-size: 14px;
+
+  line-height: 20px;
+
+  display: flex;
+
+  justify-content: center;
+
+  align-items: center;
+
+  background: url(../images/download-btn.png) no-repeat;
+
+  background-size: 20px 18px;
+
+  background-position: left 13% center;
+
+  padding-left: 20px;
+
+}
+
+
+
+.doc-download tr {
+
+  height: 40px;
+
+}
+
+
+
+.kyc-business-details {
+
+  padding: 56px 10px 50px;
+
+  background: #FFF3F7;
+
+  border-radius: 16px;
+
+  justify-content: space-between;
+
+  display: flex;
+
+  align-items: center;
+
+}
+
+
+
+.users-dash ul li a {
+
+  position: absolute;
+
+  bottom: 0;
+
+  text-align: left;
+
+  font-size: 12px;
+
+  font-weight: 500;
+
+  line-height: 20px;
+
+  color: #C73866;
+
+  width : auto;
+
+}
+
+
+
+.down-btns {
+
+  display: flex;
+
+  justify-content: flex-end;
+
+}
+
+
+
+.down-btns a {
+
+  width: 203px;
+
+  color: transparent;
+
+  flex-direction: row-reverse;
+
+  position: relative;
+
+  padding: 7px 0 7px 10px;
+
+  border: 1px solid #D0D5DD;
+
+  font-weight: 500;
+
+  font-size: 16px;
+
+  line-height: 24px;
+
+  color: #344054;
+
+  display: flex;
+
+  align-items: center;
+
+  justify-content: space-around;
+
+  flex-direction: row;
+
+  border-radius: 8px;
+
+  margin-bottom: -25px;
+
+  height: 45px;
+
+}
+
+
+
+div#kyc-heading {
+
+  /* display: flex;
+
+  justify-content: space-between;
+
+  border-bottom: 2px solid #EAECF0;
+
+  align-items: end;
+
+  padding-bottom: 10px;
+
+  width: auto; */
+
+}
+
+
+
+.new-doc {
+
+  padding: 30px 33px 30px 61px;
+
+}
+
+
+
+.closePopCls {
+
+  float: right;
+
+  color: #707070;
+
+  cursor: pointer;
+
+}
+
+
+
+.new-doc h2 {
+
+  width: 100%;
+
+}
+
+.kyc-business-details>div p {
+
+  font-weight: 600;
+
+  font-size: 18px;
+
+  line-height: 60px;
+
+  color: #C73866;
+
+  text-align: center;
+
+}
+
+
+
+.login-form {
+
+   cursor: pointer;
+
+}
+
+
+
+.kyc-form-cntrl input, .kyc-form-cntrl select {
+
+  cursor: pointer;
+
+}
+
+
+
+.kyc-heading ul li a.fontStg {
+
+  font-size: 14px;
+
+}
+
+
+
+p.adminGri {
+
+  color: #f0a144;
+
+  padding-bottom: 20px;
+
+  font-weight: bold;
+
+}
+
+
+
+img.viewBtnStgKyc {
+
+  margin-left: 130px;
+
+  margin-top: -15px;
+
+}
+
+
+
+a#scheduleMeeting:hover {
+
+  background: #C73866;
+
+  color: #fff;
+  cursor: pointer;
+
+}
+
+
+
+p#kycStatusPopupTwo {
+
+  cursor: pointer;
+
+}
+
+.stsBgStg {
+
+    cursor: pointer;
+
+}
+
+.subAdminStg {
+
+    cursor: pointer;
+
+}
+
+
+
+.newBtnDwnload
+
+{
+
+  justify-content: flex-start;
+
+    margin-top: 10px;
+
+}
+
+bold.countStg {
+
+  background: #FFF3F7;
+
+  color: #C73866;
+
+  border-radius: 25px;
+
+  padding: 0px 5px;
+
+  font-size: 13px;
+
+  margin-left: 5px;
+
+}
+
+
+
+
+
+
+
